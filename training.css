@@ -109,7 +109,9 @@ a{
 
 
 .tab{
+    position: relative;
     margin-top: 200px;
+    
 }
 
 .tabl{
@@ -213,4 +215,11 @@ a{
     background-color: black;
     color: white;
     cursor: pointer;
+}
+
+.fiDOnB {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 100%; 
+    display: inline-block;
 }
